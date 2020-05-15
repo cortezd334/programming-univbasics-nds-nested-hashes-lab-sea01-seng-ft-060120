@@ -21,7 +21,7 @@ end
   # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
 def literal_aoh
-  AoH = [
+  aoh = [
   {name: "Don Gately", occupation: "Live-in Staff"},
   {name: "Joelle van Dyne", occupation: "Radio Personality"},
   {name: "Pat Monteseian", occupation: "Staff"},
